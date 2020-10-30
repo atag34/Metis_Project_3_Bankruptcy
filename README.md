@@ -5,7 +5,7 @@ For this project I will be using Annual and Quarterly Balance sheet data reporte
 
 **Sources**
 	- [USLA Bankruptcy Database](https://lopucki.law.ucla.edu/spreadsheet.htm)
-	- [SEC EDGAR Database])https://www.sec.gov/edgar/searchedgar/companysearch.html)
+	- [SEC EDGAR Database](https://www.sec.gov/edgar/searchedgar/companysearch.html)
 
 It is important to flag that the presentation was using a different model when it was made. Considering a mistake in sampling that led to test data leaking into the model, I have resolved the issue in the final Project_Walkthrough file. This resulted in a less accurate model unfortunately, however it may be more generalizable.
 
