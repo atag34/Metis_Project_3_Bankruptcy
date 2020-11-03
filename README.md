@@ -11,6 +11,6 @@ It is important to flag that the presentation was using a different model when i
 
 Ultimately the model suffers from sparse and imperfect data, though given the amount of signal present it could be worth while trying to perfect the data and try the model again.
 
--Project_Walkthrough.ipynb contains a more narrative example of the data cleaning and modeling process for the project.
--EDGAR_data_collection.ipynb shows the method of data collection from USCLA and EDGAR.
--Project_app.py contains a streamlit app to meet the projects interactive requirement. The app can be used to explore some of the data collected as well as model predictions for the future.
+	-Project_Walkthrough.ipynb contains a more narrative example of the data cleaning and modeling process for the project.
+	-EDGAR_data_collection.ipynb shows the method of data collection from USCLA and EDGAR.
+	-Project_app.py contains a streamlit app to meet the projects interactive requirement. The app can be used to explore some of the data collected as well as model predictions for the future.
